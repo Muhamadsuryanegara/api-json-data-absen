@@ -20,6 +20,6 @@ Dalam Folder tersebut merupakan gabungan antara program PHP dan HTML dalam hal t
 Bertugas untuk mempercantik tampilan HTML, seperti menambahkan tabel dan warna.
 
 <h1> Maka Hasilnya Akan Seperti ini</h1>
-![Screenshot (46)](https://user-images.githubusercontent.com/92678339/234467414-60e38c6e-3f04-4c2b-974d-42cecb9db7c9.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/92678339/234467446-9f691390-74e6-4374-8c30-ed3ef42a1f1d.png)
+![image](https://user-images.githubusercontent.com/92678339/234467996-8cc0190b-5e1a-4408-8644-6469542590ce.png)
+
 
