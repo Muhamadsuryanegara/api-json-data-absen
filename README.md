@@ -21,5 +21,7 @@ Bertugas untuk mempercantik tampilan HTML, seperti menambahkan tabel dan warna.
 
 <h1> Maka Hasilnya Akan Seperti ini</h1>
 ![image](https://user-images.githubusercontent.com/92678339/234467996-8cc0190b-5e1a-4408-8644-6469542590ce.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/92678339/234468061-c2408c8a-5694-4e6f-b070-2971d6f07bde.png)
+
 
 
