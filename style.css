@@ -1,0 +1,36 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14px;
+  text-align: center;
+  font-family: monospace;
+}
+
+th,
+td {
+  border: 1px solid #1b1a1a;
+  padding: 8px;
+}
+
+th {
+  background-color: #27e1c1;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f3c1;
+}
+
+/* Menampilkan nomer, nama, dan nomer induk mahasiswa */
+td:nth-child(1) {
+  width: 5%;
+  font-weight: bold;
+}
+
+td:nth-child(2) {
+  width: 50%;
+}
+
+td:nth-child(3) {
+  width: 45%;
+}
